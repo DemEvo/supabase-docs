@@ -36,3 +36,5 @@ public/llms/
 
 # Sentry Config File
 .env.sentry-build-plugin
+
+*.png
