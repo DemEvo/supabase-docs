@@ -38,3 +38,4 @@ public/llms/
 .env.sentry-build-plugin
 
 *.png
+*.svg
